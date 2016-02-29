@@ -1,0 +1,8 @@
+#canvas{
+	background: url(../images/bg3.jpg) repeat bottom;
+	position: absolute;
+	top:50%;
+	left:50%;
+	margin-left: -160px;
+	margin-top:-284px;
+}
